@@ -22,6 +22,8 @@ export function logarTempoExecucao(emSegundos: boolean = false){ // parâmetro i
             retorno;
         }
 
+
+        
         return descriptor;
     }
     
